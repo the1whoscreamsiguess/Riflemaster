@@ -165,7 +165,7 @@ namespace Riflemaster
                 else if (i == this.points.GetLength(0) - 1 && this.LifeOfSegment(i) > 0f)
                 {
                     Vector2 rotation = this.bullet.rotation;
-                    rotation.Scale(new Vector2(25f, 25f));
+                    rotation.Scale(new Vector2(25f, 25f) * Dictionaries.needleBulletCustom[this.bullet].size.y);
                     vector2 = Vector2.Lerp(this.bullet.bodyChunks[0].pos - rotation, this.bullet.bodyChunks[0].pos - rotation, timeStacker);
                 }
                 Vector2 a = Custom.PerpendicularVector(vector2, vector);
