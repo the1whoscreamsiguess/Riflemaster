@@ -1,4 +1,4 @@
-Allows Spearmaster's needles to be used as rifle ammunition. By default, hitting a creature with a needle bullet gives one eighth of a food pip. Bullet damage, firerate, number of hits needed to gain an eighth pip, ammo per spear, and additional food bonus on kill can be configured in the Remix settings. Requires [Eighth Food Pips.](https://steamcommunity.com/sharedfiles/filedetails/?id=2965344743)
+Allows Spearmaster's needles to be used as rifle ammunition. By default, hitting a creature with a needle bullet gives one eighth of a food pip. Bullet damage, firerate, number of hits needed to gain an eighth pip, ammo per spear, and additional food bonus on kill can be configured in the Remix settings. Requires [Eighth Food Points.](https://steamcommunity.com/sharedfiles/filedetails/?id=2965344743)
 
 [Steam link](https://steamcommunity.com/sharedfiles/filedetails/?id=3823144640)
 
